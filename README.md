@@ -59,5 +59,5 @@ Allow location access when prompted
 🙋‍♀️ Created By
 Astha Dewangan
 Frontend Developer | Web APIs Enthusiast
-📧 astha@example.com
-🌐 LinkedIn (optional)
+📧 dewanganastha82@gmail.com
+🌐 https://www.linkedin.com/in/astha-dewangan-010084239
